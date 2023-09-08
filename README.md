@@ -7,7 +7,7 @@ class Program
 {
     static void Main()
     {
-        string input = "This is a sample text containing dates like 12312021 and 02282023. Check them.";
+        string input = "This is a sample text containing dates like 12312021 and 02gf2023. Check them.";
 
         // Define a regular expression pattern for MMDDYYYY dates
         string pattern = @"\b(\d{2})(\d{2})(\d{4})\b";

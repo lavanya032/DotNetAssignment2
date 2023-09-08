@@ -59,3 +59,9 @@ class Program
     }
 }
 ```
+![output2screenshot](https://github.com/lavanya032/DotNetAssignment2/assets/144023989/4f98136f-0c86-4d29-bf10-38d082c239f7)
+
+
+
+
+
